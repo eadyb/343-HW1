@@ -1,0 +1,1 @@
+Random file to create a difference between master and my-new-branch in order to create a pull request.

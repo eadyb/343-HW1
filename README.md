@@ -9,4 +9,4 @@ git checkout - switch to another branch and check it out into your working direc
 git merge - merge the specified branch’s history into the current one
 git log - show all commits in the current branch’s history
 git pull - fetch and merge any commits from the tracking remote branch
-git push - transmit local branch commits to the remote repository branch
+git push - transmit local branch commits to the remote repository branch.
